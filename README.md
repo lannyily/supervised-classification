@@ -12,9 +12,6 @@ O trabalho realiza uma análise comparativa entre três métodos supervisionados
 
 A classificação automática de sementes é crucial para a indústria agrícola, garantindo qualidade e pureza varietal. Este projeto utiliza o **Pumpkin Seeds Dataset** para treinar e avaliar três modelos de aprendizado de máquina, visando identificar qual abordagem oferece o melhor desempenho diante de classes morfologicamente semelhantes.
 
-O detalhamento teórico, metodologia completa e discussão dos resultados podem ser encontrados no artigo disponível neste repositório:
-> 📄 [Full_Paper__Sistemas_Inteligentes.pdf](Full_Paper__Sistemas_Inteligentes.pdf)
-
 ## 🧠 Modelos Implementados
 
 Foram desenvolvidos três notebooks Jupyter, cada um focado em um algoritmo específico:
